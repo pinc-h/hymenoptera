@@ -1,0 +1,2 @@
+This is a website I made to show the evolution of Hymenopterans. I really hope it works on your computer, I tried hosting it on Github but it mostly failed. The biggest issue you could run int o is that apostrophes become some hellscape character like â€™. Really sorry if that happens, it only happens some of the time on my computer for some reason.
+- Alex Pinch
